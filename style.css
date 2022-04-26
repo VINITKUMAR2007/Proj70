@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+#taj_mahal{
+height: 300px;
+width: 350px;
+}
+.travel_content{
+border-style: double;
+border-color: steelblue;
+border-width: 8px;
+text-align: center;
+padding: 15px;
+}
+.movie_head{
+font-size: 20px;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 15px;
+width: 100%;
+display: inline-block;
+}
+.movie_head i{
+float: right;
+}
+.movie_text span{
+color: #ff7700;
+}
